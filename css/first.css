@@ -1,0 +1,160 @@
+body{
+    margin:0px;
+    padding:0px;
+
+}
+.color{
+    padding-left:260px;
+    font-size:23px;
+    padding-top:40px;
+}
+.round img{
+    border-radius:1000px;
+    object-fit: cover;
+
+    
+}
+.flex{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto;
+    padding:40px;
+    text-align:center;
+    column-gap:20px;
+
+}
+.section{
+    background-color:rgb(253, 226, 230);
+}
+.text{
+    color:#5c5c5c;
+}
+.text div{
+    color:black;
+   padding-top: 5px;
+    padding-bottom: 5px;
+}
+.grid{
+    color:orange;
+}
+.divider{
+    width:0px;
+    height:100%;
+    border : 1px solid orange
+    
+}
+.name1{
+    font-size:25px;
+    padding-left:250px;
+    padding-top:100px;
+    padding-bottom:20px;
+}
+.size{
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    padding-left:110px;
+    column-gap: 20px;
+    padding-right:30px;
+    padding-bottom:50px
+ 
+}
+.size div{
+    padding-left:50px;
+ padding-right:10px;        
+    font-size:13px
+    
+}
+.size a{
+    text-decoration:none;
+    color:black;
+   
+    
+}
+.size div{
+    border-style:solid;
+    border-radius:100px;
+   
+}
+.gap{
+    padding-top:10px;
+   
+}
+.size1 div{
+    padding-left:50px;
+ padding-right:10px;
+    font-size:13px;
+padding-left:470px;
+padding-top:20px;
+border-radius:100px;
+border-style:solid ;
+
+
+
+}
+.size1 a{
+    text-decoration:none;
+    color:black;
+    border-radius:100px;
+    
+    
+
+}
+.div a:hover{
+    background-color: orange;
+}
+.size div {
+    padding:10px;
+}
+.column {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    background-color:rgb(253, 226, 230) ;
+
+ 
+}
+.div1{
+    display:flex;
+ padding:40px;
+}
+.font{
+    color:#5c5c5c;
+    font-size: 15px;
+    
+}
+.div1 div{
+    font-size:20;
+    padding-bottom:20px;
+}
+.divider1{
+    width:0px;
+    height:35%;
+    border : 1px solid grey;
+    margin-top: 30px;
+    
+}
+.women{
+    padding-left:90px;
+    padding-top:60px;
+}
+.women img{
+    border-radius:150px;
+ 
+}
+.image{
+    display:flex;
+}
+.expert{
+    padding-bottom:15px;
+    font-size: 25px;
+}
+.name3{
+    padding-top:100px;
+    padding-left:30px
+  }
+  .arnav{
+    color:grey;
+    padding-top:15px;
+    font-size: 15px;
+    padding-bottom:15px;
+    }
+
+   
